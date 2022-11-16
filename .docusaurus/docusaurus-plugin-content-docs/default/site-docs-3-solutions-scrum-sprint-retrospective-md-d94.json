@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Solutions/Scrum Sprint Retrospective",
+  "id": "Solutions/Scrum Sprint Retrospective",
+  "title": "Scrum Sprint Retrospective",
+  "description": "",
+  "source": "@site/docs/3. Solutions/Scrum Sprint Retrospective.md",
+  "sourceDirName": "3. Solutions",
+  "slug": "/Solutions/Scrum Sprint Retrospective",
+  "permalink": "/docs/Solutions/Scrum Sprint Retrospective",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Sprint Planning",
+    "permalink": "/docs/Solutions/Scrum Sprint Planning"
+  },
+  "next": {
+    "title": "Scrum Sprint Review",
+    "permalink": "/docs/Solutions/Scrum Sprint Review"
+  }
+}

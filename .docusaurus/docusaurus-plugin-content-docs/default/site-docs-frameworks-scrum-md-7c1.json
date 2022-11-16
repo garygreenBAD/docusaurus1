@@ -1,0 +1,38 @@
+{
+  "unversionedId": "Frameworks/scrum",
+  "id": "Frameworks/scrum",
+  "title": "Scrum",
+  "description": "Scrum Framework",
+  "source": "@site/docs/Frameworks/scrum.md",
+  "sourceDirName": "Frameworks",
+  "slug": "/Frameworks/scrum",
+  "permalink": "/docs/Frameworks/scrum",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Scrum",
+      "permalink": "/docs/tags/scrum"
+    },
+    {
+      "label": "Frameworks",
+      "permalink": "/docs/tags/frameworks"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Scrum",
+    "tags": [
+      "Scrum",
+      "Frameworks"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About Frameworks",
+    "permalink": "/docs/Frameworks/intro"
+  },
+  "next": {
+    "title": "About Solutions",
+    "permalink": "/docs/Solutions/intro"
+  }
+}

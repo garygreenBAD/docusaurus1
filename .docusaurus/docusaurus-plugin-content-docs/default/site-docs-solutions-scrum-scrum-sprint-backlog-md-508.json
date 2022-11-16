@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Solutions/Scrum/Scrum Sprint Backlog",
+  "id": "Solutions/Scrum/Scrum Sprint Backlog",
+  "title": "Scrum Sprint Backlog",
+  "description": "",
+  "source": "@site/docs/Solutions/Scrum/Scrum Sprint Backlog.md",
+  "sourceDirName": "Solutions/Scrum",
+  "slug": "/Solutions/Scrum/Scrum Sprint Backlog",
+  "permalink": "/docs/Solutions/Scrum/Scrum Sprint Backlog",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Daily Scrum",
+    "permalink": "/docs/Solutions/Scrum/Scrum Daily Scrum"
+  },
+  "next": {
+    "title": "Scrum Sprint Planning",
+    "permalink": "/docs/Solutions/Scrum/Scrum Sprint Planning"
+  }
+}

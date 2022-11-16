@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Solutions/Scrum Daily Scrum",
+  "id": "Solutions/Scrum Daily Scrum",
+  "title": "Scrum Daily Scrum",
+  "description": "",
+  "source": "@site/docs/Solutions/Scrum Daily Scrum.md",
+  "sourceDirName": "Solutions",
+  "slug": "/Solutions/Scrum Daily Scrum",
+  "permalink": "/docs/Solutions/Scrum Daily Scrum",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Backlog",
+    "permalink": "/docs/Solutions/Scrum Backlog"
+  },
+  "next": {
+    "title": "Scrum Sprint Backlog",
+    "permalink": "/docs/Solutions/Scrum Sprint Backlog"
+  }
+}

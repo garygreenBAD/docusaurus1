@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Areas of Focus/intro",
+              "path": "/docs/Areas of Focus/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Areas of Focus/Scrum/Scrum Artifacts",
+              "path": "/docs/Areas of Focus/Scrum/Scrum Artifacts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Areas of Focus/Scrum/Scrum Events",
+              "path": "/docs/Areas of Focus/Scrum/Scrum Events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Areas of Focus/Scrum/Scrum Roles",
+              "path": "/docs/Areas of Focus/Scrum/Scrum Roles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Areas of Focus/Scrum/Scrum Values",
+              "path": "/docs/Areas of Focus/Scrum/Scrum Values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Frameworks/intro",
+              "path": "/docs/Frameworks/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Frameworks/scrum",
+              "path": "/docs/Frameworks/scrum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/intro",
+              "path": "/docs/Solutions/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/Scrum/Scrum Backlog",
+              "path": "/docs/Solutions/Scrum/Scrum Backlog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/Scrum/Scrum Backlog Refinement",
+              "path": "/docs/Solutions/Scrum/Scrum Backlog Refinement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/Scrum/Scrum Daily Scrum",
+              "path": "/docs/Solutions/Scrum/Scrum Daily Scrum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/Scrum/Scrum Sprint Backlog",
+              "path": "/docs/Solutions/Scrum/Scrum Sprint Backlog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/Scrum/Scrum Sprint Planning",
+              "path": "/docs/Solutions/Scrum/Scrum Sprint Planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/Scrum/Scrum Sprint Retrospective",
+              "path": "/docs/Solutions/Scrum/Scrum Sprint Retrospective",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solutions/Scrum/Scrum Sprint Review",
+              "path": "/docs/Solutions/Scrum/Scrum Sprint Review",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tools/intro",
+              "path": "/docs/Tools/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Areas of Focus/Scrum Daily Scrum",
+  "id": "Areas of Focus/Scrum Daily Scrum",
+  "title": "Scrum Daily Scrum",
+  "description": "",
+  "source": "@site/docs/2. Areas of Focus/Scrum Daily Scrum.md",
+  "sourceDirName": "2. Areas of Focus",
+  "slug": "/Areas of Focus/Scrum Daily Scrum",
+  "permalink": "/docs/Areas of Focus/Scrum Daily Scrum",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Backlog",
+    "permalink": "/docs/Areas of Focus/Scrum Backlog"
+  },
+  "next": {
+    "title": "Scrum Sprint Backlog",
+    "permalink": "/docs/Areas of Focus/Scrum Sprint Backlog"
+  }
+}

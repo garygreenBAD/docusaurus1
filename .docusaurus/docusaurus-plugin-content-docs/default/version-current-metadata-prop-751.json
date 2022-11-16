@@ -1,0 +1,268 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "BAD Tools Community Toolkit",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Areas of Focus",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "About Areas of Focus",
+            "href": "/docs/Areas of Focus/intro",
+            "docId": "Areas of Focus/intro"
+          },
+          {
+            "type": "category",
+            "label": "Scrum",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Scrum Values",
+                "href": "/docs/Areas of Focus/Scrum/Scrum Values",
+                "docId": "Areas of Focus/Scrum/Scrum Values"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Roles",
+                "href": "/docs/Areas of Focus/Scrum/Scrum Roles",
+                "docId": "Areas of Focus/Scrum/Scrum Roles"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Artifacts",
+                "href": "/docs/Areas of Focus/Scrum/Scrum Artifacts",
+                "docId": "Areas of Focus/Scrum/Scrum Artifacts"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Events",
+                "href": "/docs/Areas of Focus/Scrum/Scrum Events",
+                "docId": "Areas of Focus/Scrum/Scrum Events"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Frameworks",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "About Frameworks",
+            "href": "/docs/Frameworks/intro",
+            "docId": "Frameworks/intro"
+          },
+          {
+            "type": "link",
+            "label": "Scrum",
+            "href": "/docs/Frameworks/scrum",
+            "docId": "Frameworks/scrum"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Solutions",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "About Solutions",
+            "href": "/docs/Solutions/intro",
+            "docId": "Solutions/intro"
+          },
+          {
+            "type": "category",
+            "label": "Scrum",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Scrum Backlog Refinement",
+                "href": "/docs/Solutions/Scrum/Scrum Backlog Refinement",
+                "docId": "Solutions/Scrum/Scrum Backlog Refinement"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Backlog",
+                "href": "/docs/Solutions/Scrum/Scrum Backlog",
+                "docId": "Solutions/Scrum/Scrum Backlog"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Daily Scrum",
+                "href": "/docs/Solutions/Scrum/Scrum Daily Scrum",
+                "docId": "Solutions/Scrum/Scrum Daily Scrum"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Sprint Backlog",
+                "href": "/docs/Solutions/Scrum/Scrum Sprint Backlog",
+                "docId": "Solutions/Scrum/Scrum Sprint Backlog"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Sprint Planning",
+                "href": "/docs/Solutions/Scrum/Scrum Sprint Planning",
+                "docId": "Solutions/Scrum/Scrum Sprint Planning"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Sprint Retrospective",
+                "href": "/docs/Solutions/Scrum/Scrum Sprint Retrospective",
+                "docId": "Solutions/Scrum/Scrum Sprint Retrospective"
+              },
+              {
+                "type": "link",
+                "label": "Scrum Sprint Review",
+                "href": "/docs/Solutions/Scrum/Scrum Sprint Review",
+                "docId": "Solutions/Scrum/Scrum Sprint Review"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Tools",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "About Tools",
+            "href": "/docs/Tools/intro",
+            "docId": "Tools/intro"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "Areas of Focus/intro": {
+      "id": "Areas of Focus/intro",
+      "title": "About Areas of Focus",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Areas of Focus/Scrum/Scrum Artifacts": {
+      "id": "Areas of Focus/Scrum/Scrum Artifacts",
+      "title": "Scrum Artifacts",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Areas of Focus/Scrum/Scrum Events": {
+      "id": "Areas of Focus/Scrum/Scrum Events",
+      "title": "Scrum Events",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Areas of Focus/Scrum/Scrum Roles": {
+      "id": "Areas of Focus/Scrum/Scrum Roles",
+      "title": "Scrum Roles",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Areas of Focus/Scrum/Scrum Values": {
+      "id": "Areas of Focus/Scrum/Scrum Values",
+      "title": "Scrum Values",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Frameworks/intro": {
+      "id": "Frameworks/intro",
+      "title": "About Frameworks",
+      "description": "An introduction to BAD Tool Frameworks",
+      "sidebar": "tutorialSidebar"
+    },
+    "Frameworks/scrum": {
+      "id": "Frameworks/scrum",
+      "title": "Scrum",
+      "description": "Scrum Framework",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "BAD Tools Community Toolkit",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/intro": {
+      "id": "Solutions/intro",
+      "title": "About Solutions",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/Scrum/Scrum Backlog": {
+      "id": "Solutions/Scrum/Scrum Backlog",
+      "title": "Scrum Backlog",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/Scrum/Scrum Backlog Refinement": {
+      "id": "Solutions/Scrum/Scrum Backlog Refinement",
+      "title": "Scrum Backlog Refinement",
+      "description": "Test",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/Scrum/Scrum Daily Scrum": {
+      "id": "Solutions/Scrum/Scrum Daily Scrum",
+      "title": "Scrum Daily Scrum",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/Scrum/Scrum Sprint Backlog": {
+      "id": "Solutions/Scrum/Scrum Sprint Backlog",
+      "title": "Scrum Sprint Backlog",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/Scrum/Scrum Sprint Planning": {
+      "id": "Solutions/Scrum/Scrum Sprint Planning",
+      "title": "Scrum Sprint Planning",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/Scrum/Scrum Sprint Retrospective": {
+      "id": "Solutions/Scrum/Scrum Sprint Retrospective",
+      "title": "Scrum Sprint Retrospective",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Solutions/Scrum/Scrum Sprint Review": {
+      "id": "Solutions/Scrum/Scrum Sprint Review",
+      "title": "Scrum Sprint Review",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Tools/intro": {
+      "id": "Tools/intro",
+      "title": "About Tools",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

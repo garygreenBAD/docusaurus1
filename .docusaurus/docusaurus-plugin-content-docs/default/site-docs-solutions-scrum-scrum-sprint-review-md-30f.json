@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Solutions/Scrum/Scrum Sprint Review",
+  "id": "Solutions/Scrum/Scrum Sprint Review",
+  "title": "Scrum Sprint Review",
+  "description": "",
+  "source": "@site/docs/Solutions/Scrum/Scrum Sprint Review.md",
+  "sourceDirName": "Solutions/Scrum",
+  "slug": "/Solutions/Scrum/Scrum Sprint Review",
+  "permalink": "/docs/Solutions/Scrum/Scrum Sprint Review",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Sprint Retrospective",
+    "permalink": "/docs/Solutions/Scrum/Scrum Sprint Retrospective"
+  },
+  "next": {
+    "title": "About Tools",
+    "permalink": "/docs/Tools/intro"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Areas of Focus/Scrum Events",
+  "id": "Areas of Focus/Scrum Events",
+  "title": "Scrum Events",
+  "description": "",
+  "source": "@site/docs/2. Areas of Focus/Scrum Events.md",
+  "sourceDirName": "2. Areas of Focus",
+  "slug": "/Areas of Focus/Scrum Events",
+  "permalink": "/docs/Areas of Focus/Scrum Events",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Scrum",
+      "permalink": "/docs/tags/scrum"
+    },
+    {
+      "label": "AOF",
+      "permalink": "/docs/tags/aof"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Scrum Events",
+    "sidebar_position": 4,
+    "tags": [
+      "Scrum",
+      "AOF"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Roles",
+    "permalink": "/docs/Areas of Focus/Scrum Roles"
+  },
+  "next": {
+    "title": "Scrum Artifacts",
+    "permalink": "/docs/Areas of Focus/Scrum/Scrum Artifacts"
+  }
+}

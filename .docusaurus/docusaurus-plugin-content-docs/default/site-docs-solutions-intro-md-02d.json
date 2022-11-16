@@ -1,0 +1,35 @@
+{
+  "unversionedId": "Solutions/intro",
+  "id": "Solutions/intro",
+  "title": "About Solutions",
+  "description": "Introduction",
+  "source": "@site/docs/Solutions/intro.md",
+  "sourceDirName": "Solutions",
+  "slug": "/Solutions/intro",
+  "permalink": "/docs/Solutions/intro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Introduction",
+      "permalink": "/docs/tags/introduction"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "About Solutions",
+    "sidebar_position": 4,
+    "tags": [
+      "Introduction"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum",
+    "permalink": "/docs/Frameworks/scrum"
+  },
+  "next": {
+    "title": "Scrum Backlog Refinement",
+    "permalink": "/docs/Solutions/Scrum/Scrum Backlog Refinement"
+  }
+}

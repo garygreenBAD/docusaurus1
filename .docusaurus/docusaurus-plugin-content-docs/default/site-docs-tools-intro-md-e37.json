@@ -1,0 +1,31 @@
+{
+  "unversionedId": "Tools/intro",
+  "id": "Tools/intro",
+  "title": "About Tools",
+  "description": "Introduction",
+  "source": "@site/docs/Tools/intro.md",
+  "sourceDirName": "Tools",
+  "slug": "/Tools/intro",
+  "permalink": "/docs/Tools/intro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "introduction",
+      "permalink": "/docs/tags/introduction"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "About Tools",
+    "sidebar_position": 5,
+    "tags": [
+      "introduction"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Sprint Review",
+    "permalink": "/docs/Solutions/Scrum/Scrum Sprint Review"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Areas of Focus/intro",
+  "id": "Areas of Focus/intro",
+  "title": "About Areas of Focus",
+  "description": "Introduction",
+  "source": "@site/docs/2. Areas of Focus/intro.md",
+  "sourceDirName": "2. Areas of Focus",
+  "slug": "/Areas of Focus/intro",
+  "permalink": "/docs/Areas of Focus/intro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "AOF",
+      "permalink": "/docs/tags/aof"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "About Areas of Focus",
+    "sidebar_position": 3,
+    "tags": [
+      "Intro",
+      "AOF"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BAD Tools Community Toolkit",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Scrum Values",
+    "permalink": "/docs/Areas of Focus/Scrum/Scrum Values"
+  }
+}

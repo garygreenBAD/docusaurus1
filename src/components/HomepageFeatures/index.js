@@ -3,33 +3,32 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
+
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Blueprints',
+    Svg: require('@site/static/img/bad-solutions.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Combinations of Frameworks and Toolkits that help organisations solve larger problems
+
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Downloads',
+    Svg: require('@site/static/img/bad-downloads.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Cheat Sheets to take away and help you adopt the toolkit
       </>
     ),
-  },
+  },  
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Examples',
+    Svg: require('@site/static/img/bad-examples.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Industry specific examples based on real world scenarios
       </>
     ),
   },

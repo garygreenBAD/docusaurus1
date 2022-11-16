@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Solutions/Scrum Backlog",
+  "id": "Solutions/Scrum Backlog",
+  "title": "Scrum Backlog",
+  "description": "",
+  "source": "@site/docs/3. Solutions/Scrum Backlog.md",
+  "sourceDirName": "3. Solutions",
+  "slug": "/Solutions/Scrum Backlog",
+  "permalink": "/docs/Solutions/Scrum Backlog",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Backlog Refinement",
+    "permalink": "/docs/Solutions/Scrum Backlog Refinement"
+  },
+  "next": {
+    "title": "Scrum Daily Scrum",
+    "permalink": "/docs/Solutions/Scrum Daily Scrum"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "label": "AOF",
+  "permalink": "/docs/tags/aof",
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "Areas of Focus/Scrum/Scrum Artifacts",
+      "title": "Scrum Artifacts",
+      "description": "",
+      "permalink": "/docs/Areas of Focus/Scrum/Scrum Artifacts"
+    },
+    {
+      "id": "Areas of Focus/Scrum/Scrum Events",
+      "title": "Scrum Events",
+      "description": "",
+      "permalink": "/docs/Areas of Focus/Scrum/Scrum Events"
+    },
+    {
+      "id": "Areas of Focus/Scrum/Scrum Roles",
+      "title": "Scrum Roles",
+      "description": "",
+      "permalink": "/docs/Areas of Focus/Scrum/Scrum Roles"
+    },
+    {
+      "id": "Areas of Focus/Scrum/Scrum Values",
+      "title": "Scrum Values",
+      "description": "",
+      "permalink": "/docs/Areas of Focus/Scrum/Scrum Values"
+    }
+  ]
+}

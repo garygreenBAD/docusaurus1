@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Areas of Focus/Scrum Sprint Planning",
+  "id": "Areas of Focus/Scrum Sprint Planning",
+  "title": "Scrum Sprint Planning",
+  "description": "",
+  "source": "@site/docs/2. Areas of Focus/Scrum Sprint Planning.md",
+  "sourceDirName": "2. Areas of Focus",
+  "slug": "/Areas of Focus/Scrum Sprint Planning",
+  "permalink": "/docs/Areas of Focus/Scrum Sprint Planning",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Sprint Backlog",
+    "permalink": "/docs/Areas of Focus/Scrum Sprint Backlog"
+  },
+  "next": {
+    "title": "Scrum Sprint Retrospective",
+    "permalink": "/docs/Areas of Focus/Scrum Sprint Retrospective"
+  }
+}

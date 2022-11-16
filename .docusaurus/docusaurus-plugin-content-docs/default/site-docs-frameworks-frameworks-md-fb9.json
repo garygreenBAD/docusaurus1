@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Frameworks/Frameworks",
+  "id": "Frameworks/Frameworks",
+  "title": "Frameworks",
+  "description": "Introduction to Frameworks",
+  "source": "@site/docs/Frameworks/Frameworks.md",
+  "sourceDirName": "Frameworks",
+  "slug": "/Frameworks/",
+  "permalink": "/docs/Frameworks/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Scrum",
+    "permalink": "/docs/Frameworks/scrum"
+  }
+}

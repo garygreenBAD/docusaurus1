@@ -1,0 +1,37 @@
+{
+  "unversionedId": "Frameworks/intro",
+  "id": "Frameworks/intro",
+  "title": "About Frameworks",
+  "description": "An introduction to BAD Tool Frameworks",
+  "source": "@site/docs/1. Frameworks/intro.md",
+  "sourceDirName": "1. Frameworks",
+  "slug": "/Frameworks/intro",
+  "permalink": "/docs/Frameworks/intro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Frameworks",
+      "permalink": "/docs/tags/frameworks"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "About Frameworks",
+    "description": "An introduction to BAD Tool Frameworks",
+    "sidebar_position": 2,
+    "tags": [
+      "Intro",
+      "Frameworks"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Scrum",
+    "permalink": "/docs/Frameworks/scrum"
+  }
+}

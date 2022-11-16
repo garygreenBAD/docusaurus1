@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Areas of Focus/Scrum/Scrum Roles",
+  "id": "Areas of Focus/Scrum/Scrum Roles",
+  "title": "Scrum Roles",
+  "description": "",
+  "source": "@site/docs/Areas of Focus/Scrum/Scrum Roles.md",
+  "sourceDirName": "Areas of Focus/Scrum",
+  "slug": "/Areas of Focus/Scrum/Scrum Roles",
+  "permalink": "/docs/Areas of Focus/Scrum/Scrum Roles",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Scrum",
+      "permalink": "/docs/tags/scrum"
+    },
+    {
+      "label": "AOF",
+      "permalink": "/docs/tags/aof"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Scrum Roles",
+    "sidebar_position": 2,
+    "tags": [
+      "Scrum",
+      "AOF"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrum Values",
+    "permalink": "/docs/Areas of Focus/Scrum/Scrum Values"
+  },
+  "next": {
+    "title": "Scrum Artifacts",
+    "permalink": "/docs/Areas of Focus/Scrum/Scrum Artifacts"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "BAD Tools Community Toolkit",
+  "description": "Introduction",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "introduction",
+      "permalink": "/docs/tags/introduction"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "BAD Tools Community Toolkit",
+    "sidebar_position": 1,
+    "tags": [
+      "introduction"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "About Areas of Focus",
+    "permalink": "/docs/Areas of Focus/intro"
+  }
+}
