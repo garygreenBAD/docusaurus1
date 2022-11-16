@@ -1,22 +1,22 @@
 [
   {
     "label": "Introduction",
-    "permalink": "/docs/tags/introduction",
+    "permalink": "/community/docs/tags/introduction",
     "count": 5
   },
   {
     "label": "Scrum",
-    "permalink": "/docs/tags/scrum",
+    "permalink": "/community/docs/tags/scrum",
     "count": 5
   },
   {
     "label": "AOF",
-    "permalink": "/docs/tags/aof",
+    "permalink": "/community/docs/tags/aof",
     "count": 4
   },
   {
     "label": "Frameworks",
-    "permalink": "/docs/tags/frameworks",
+    "permalink": "/community/docs/tags/frameworks",
     "count": 1
   }
 ]

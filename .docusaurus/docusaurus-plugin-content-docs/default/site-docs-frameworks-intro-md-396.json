@@ -6,12 +6,12 @@
   "source": "@site/docs/Frameworks/intro.md",
   "sourceDirName": "Frameworks",
   "slug": "/Frameworks/intro",
-  "permalink": "/docs/Frameworks/intro",
+  "permalink": "/community/docs/Frameworks/intro",
   "draft": false,
   "tags": [
     {
       "label": "Introduction",
-      "permalink": "/docs/tags/introduction"
+      "permalink": "/community/docs/tags/introduction"
     }
   ],
   "version": "current",
@@ -24,13 +24,13 @@
       "Introduction"
     ]
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "BADSidebar",
   "previous": {
     "title": "Scrum Events",
-    "permalink": "/docs/Areas of Focus/Scrum/Scrum Events"
+    "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Events"
   },
   "next": {
     "title": "Scrum",
-    "permalink": "/docs/Frameworks/scrum"
+    "permalink": "/community/docs/Frameworks/scrum"
   }
 }

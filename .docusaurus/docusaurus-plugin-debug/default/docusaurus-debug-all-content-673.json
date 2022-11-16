@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/community/docs",
+          "tagsPath": "/community/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/garygreen/Documents/GitHub/docusaurus1/sidebars.js",
@@ -25,12 +25,12 @@
               "source": "@site/docs/Areas of Focus/intro.md",
               "sourceDirName": "Areas of Focus",
               "slug": "/Areas of Focus/intro",
-              "permalink": "/docs/Areas of Focus/intro",
+              "permalink": "/community/docs/Areas of Focus/intro",
               "draft": false,
               "tags": [
                 {
                   "label": "Introduction",
-                  "permalink": "/docs/tags/introduction"
+                  "permalink": "/community/docs/tags/introduction"
                 }
               ],
               "version": "current",
@@ -42,14 +42,14 @@
                   "Introduction"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "BAD Tools Community Toolkit",
-                "permalink": "/docs/intro"
+                "permalink": "/community/docs/intro"
               },
               "next": {
                 "title": "Scrum Values",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Values"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Values"
               }
             },
             {
@@ -60,16 +60,16 @@
               "source": "@site/docs/Areas of Focus/Scrum/Scrum Artifacts.md",
               "sourceDirName": "Areas of Focus/Scrum",
               "slug": "/Areas of Focus/Scrum/Scrum Artifacts",
-              "permalink": "/docs/Areas of Focus/Scrum/Scrum Artifacts",
+              "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Artifacts",
               "draft": false,
               "tags": [
                 {
                   "label": "Scrum",
-                  "permalink": "/docs/tags/scrum"
+                  "permalink": "/community/docs/tags/scrum"
                 },
                 {
                   "label": "AOF",
-                  "permalink": "/docs/tags/aof"
+                  "permalink": "/community/docs/tags/aof"
                 }
               ],
               "version": "current",
@@ -82,14 +82,14 @@
                   "AOF"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Roles",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Roles"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Roles"
               },
               "next": {
                 "title": "Scrum Events",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Events"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Events"
               }
             },
             {
@@ -100,16 +100,16 @@
               "source": "@site/docs/Areas of Focus/Scrum/Scrum Events.md",
               "sourceDirName": "Areas of Focus/Scrum",
               "slug": "/Areas of Focus/Scrum/Scrum Events",
-              "permalink": "/docs/Areas of Focus/Scrum/Scrum Events",
+              "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Events",
               "draft": false,
               "tags": [
                 {
                   "label": "Scrum",
-                  "permalink": "/docs/tags/scrum"
+                  "permalink": "/community/docs/tags/scrum"
                 },
                 {
                   "label": "AOF",
-                  "permalink": "/docs/tags/aof"
+                  "permalink": "/community/docs/tags/aof"
                 }
               ],
               "version": "current",
@@ -122,14 +122,14 @@
                   "AOF"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Artifacts",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Artifacts"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Artifacts"
               },
               "next": {
                 "title": "About Frameworks",
-                "permalink": "/docs/Frameworks/intro"
+                "permalink": "/community/docs/Frameworks/intro"
               }
             },
             {
@@ -140,16 +140,16 @@
               "source": "@site/docs/Areas of Focus/Scrum/Scrum Roles.md",
               "sourceDirName": "Areas of Focus/Scrum",
               "slug": "/Areas of Focus/Scrum/Scrum Roles",
-              "permalink": "/docs/Areas of Focus/Scrum/Scrum Roles",
+              "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Roles",
               "draft": false,
               "tags": [
                 {
                   "label": "Scrum",
-                  "permalink": "/docs/tags/scrum"
+                  "permalink": "/community/docs/tags/scrum"
                 },
                 {
                   "label": "AOF",
-                  "permalink": "/docs/tags/aof"
+                  "permalink": "/community/docs/tags/aof"
                 }
               ],
               "version": "current",
@@ -162,14 +162,14 @@
                   "AOF"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Values",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Values"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Values"
               },
               "next": {
                 "title": "Scrum Artifacts",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Artifacts"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Artifacts"
               }
             },
             {
@@ -180,16 +180,16 @@
               "source": "@site/docs/Areas of Focus/Scrum/Scrum Values.md",
               "sourceDirName": "Areas of Focus/Scrum",
               "slug": "/Areas of Focus/Scrum/Scrum Values",
-              "permalink": "/docs/Areas of Focus/Scrum/Scrum Values",
+              "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Values",
               "draft": false,
               "tags": [
                 {
                   "label": "Scrum",
-                  "permalink": "/docs/tags/scrum"
+                  "permalink": "/community/docs/tags/scrum"
                 },
                 {
                   "label": "AOF",
-                  "permalink": "/docs/tags/aof"
+                  "permalink": "/community/docs/tags/aof"
                 }
               ],
               "version": "current",
@@ -202,14 +202,14 @@
                   "AOF"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "About Areas of Focus",
-                "permalink": "/docs/Areas of Focus/intro"
+                "permalink": "/community/docs/Areas of Focus/intro"
               },
               "next": {
                 "title": "Scrum Roles",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Roles"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Roles"
               }
             },
             {
@@ -220,12 +220,12 @@
               "source": "@site/docs/Frameworks/intro.md",
               "sourceDirName": "Frameworks",
               "slug": "/Frameworks/intro",
-              "permalink": "/docs/Frameworks/intro",
+              "permalink": "/community/docs/Frameworks/intro",
               "draft": false,
               "tags": [
                 {
                   "label": "Introduction",
-                  "permalink": "/docs/tags/introduction"
+                  "permalink": "/community/docs/tags/introduction"
                 }
               ],
               "version": "current",
@@ -238,14 +238,14 @@
                   "Introduction"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Events",
-                "permalink": "/docs/Areas of Focus/Scrum/Scrum Events"
+                "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Events"
               },
               "next": {
                 "title": "Scrum",
-                "permalink": "/docs/Frameworks/scrum"
+                "permalink": "/community/docs/Frameworks/scrum"
               }
             },
             {
@@ -256,16 +256,16 @@
               "source": "@site/docs/Frameworks/scrum.md",
               "sourceDirName": "Frameworks",
               "slug": "/Frameworks/scrum",
-              "permalink": "/docs/Frameworks/scrum",
+              "permalink": "/community/docs/Frameworks/scrum",
               "draft": false,
               "tags": [
                 {
                   "label": "Scrum",
-                  "permalink": "/docs/tags/scrum"
+                  "permalink": "/community/docs/tags/scrum"
                 },
                 {
                   "label": "Frameworks",
-                  "permalink": "/docs/tags/frameworks"
+                  "permalink": "/community/docs/tags/frameworks"
                 }
               ],
               "version": "current",
@@ -276,14 +276,14 @@
                   "Frameworks"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "About Frameworks",
-                "permalink": "/docs/Frameworks/intro"
+                "permalink": "/community/docs/Frameworks/intro"
               },
               "next": {
                 "title": "About Solutions",
-                "permalink": "/docs/Solutions/intro"
+                "permalink": "/community/docs/Solutions/intro"
               }
             },
             {
@@ -294,12 +294,12 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/community/docs/intro",
               "draft": false,
               "tags": [
                 {
                   "label": "introduction",
-                  "permalink": "/docs/tags/introduction"
+                  "permalink": "/community/docs/tags/introduction"
                 }
               ],
               "version": "current",
@@ -311,10 +311,10 @@
                   "introduction"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "next": {
                 "title": "About Areas of Focus",
-                "permalink": "/docs/Areas of Focus/intro"
+                "permalink": "/community/docs/Areas of Focus/intro"
               }
             },
             {
@@ -325,12 +325,12 @@
               "source": "@site/docs/Solutions/intro.md",
               "sourceDirName": "Solutions",
               "slug": "/Solutions/intro",
-              "permalink": "/docs/Solutions/intro",
+              "permalink": "/community/docs/Solutions/intro",
               "draft": false,
               "tags": [
                 {
                   "label": "Introduction",
-                  "permalink": "/docs/tags/introduction"
+                  "permalink": "/community/docs/tags/introduction"
                 }
               ],
               "version": "current",
@@ -342,14 +342,14 @@
                   "Introduction"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum",
-                "permalink": "/docs/Frameworks/scrum"
+                "permalink": "/community/docs/Frameworks/scrum"
               },
               "next": {
                 "title": "Scrum Backlog Refinement",
-                "permalink": "/docs/Solutions/Scrum/Scrum Backlog Refinement"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog Refinement"
               }
             },
             {
@@ -360,19 +360,19 @@
               "source": "@site/docs/Solutions/Scrum/Scrum Backlog.md",
               "sourceDirName": "Solutions/Scrum",
               "slug": "/Solutions/Scrum/Scrum Backlog",
-              "permalink": "/docs/Solutions/Scrum/Scrum Backlog",
+              "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Backlog Refinement",
-                "permalink": "/docs/Solutions/Scrum/Scrum Backlog Refinement"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog Refinement"
               },
               "next": {
                 "title": "Scrum Daily Scrum",
-                "permalink": "/docs/Solutions/Scrum/Scrum Daily Scrum"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Daily Scrum"
               }
             },
             {
@@ -383,19 +383,19 @@
               "source": "@site/docs/Solutions/Scrum/Scrum Backlog Refinement.md",
               "sourceDirName": "Solutions/Scrum",
               "slug": "/Solutions/Scrum/Scrum Backlog Refinement",
-              "permalink": "/docs/Solutions/Scrum/Scrum Backlog Refinement",
+              "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog Refinement",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "About Solutions",
-                "permalink": "/docs/Solutions/intro"
+                "permalink": "/community/docs/Solutions/intro"
               },
               "next": {
                 "title": "Scrum Backlog",
-                "permalink": "/docs/Solutions/Scrum/Scrum Backlog"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog"
               }
             },
             {
@@ -406,19 +406,19 @@
               "source": "@site/docs/Solutions/Scrum/Scrum Daily Scrum.md",
               "sourceDirName": "Solutions/Scrum",
               "slug": "/Solutions/Scrum/Scrum Daily Scrum",
-              "permalink": "/docs/Solutions/Scrum/Scrum Daily Scrum",
+              "permalink": "/community/docs/Solutions/Scrum/Scrum Daily Scrum",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Backlog",
-                "permalink": "/docs/Solutions/Scrum/Scrum Backlog"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog"
               },
               "next": {
                 "title": "Scrum Sprint Backlog",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Backlog"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Backlog"
               }
             },
             {
@@ -429,19 +429,19 @@
               "source": "@site/docs/Solutions/Scrum/Scrum Sprint Backlog.md",
               "sourceDirName": "Solutions/Scrum",
               "slug": "/Solutions/Scrum/Scrum Sprint Backlog",
-              "permalink": "/docs/Solutions/Scrum/Scrum Sprint Backlog",
+              "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Backlog",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Daily Scrum",
-                "permalink": "/docs/Solutions/Scrum/Scrum Daily Scrum"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Daily Scrum"
               },
               "next": {
                 "title": "Scrum Sprint Planning",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Planning"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Planning"
               }
             },
             {
@@ -452,19 +452,19 @@
               "source": "@site/docs/Solutions/Scrum/Scrum Sprint Planning.md",
               "sourceDirName": "Solutions/Scrum",
               "slug": "/Solutions/Scrum/Scrum Sprint Planning",
-              "permalink": "/docs/Solutions/Scrum/Scrum Sprint Planning",
+              "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Planning",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Sprint Backlog",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Backlog"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Backlog"
               },
               "next": {
                 "title": "Scrum Sprint Retrospective",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Retrospective"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Retrospective"
               }
             },
             {
@@ -475,19 +475,19 @@
               "source": "@site/docs/Solutions/Scrum/Scrum Sprint Retrospective.md",
               "sourceDirName": "Solutions/Scrum",
               "slug": "/Solutions/Scrum/Scrum Sprint Retrospective",
-              "permalink": "/docs/Solutions/Scrum/Scrum Sprint Retrospective",
+              "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Retrospective",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Sprint Planning",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Planning"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Planning"
               },
               "next": {
                 "title": "Scrum Sprint Review",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Review"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Review"
               }
             },
             {
@@ -498,19 +498,19 @@
               "source": "@site/docs/Solutions/Scrum/Scrum Sprint Review.md",
               "sourceDirName": "Solutions/Scrum",
               "slug": "/Solutions/Scrum/Scrum Sprint Review",
-              "permalink": "/docs/Solutions/Scrum/Scrum Sprint Review",
+              "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Review",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Sprint Retrospective",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Retrospective"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Retrospective"
               },
               "next": {
                 "title": "About Tools",
-                "permalink": "/docs/Tools/intro"
+                "permalink": "/community/docs/Tools/intro"
               }
             },
             {
@@ -521,12 +521,12 @@
               "source": "@site/docs/Tools/intro.md",
               "sourceDirName": "Tools",
               "slug": "/Tools/intro",
-              "permalink": "/docs/Tools/intro",
+              "permalink": "/community/docs/Tools/intro",
               "draft": false,
               "tags": [
                 {
                   "label": "introduction",
-                  "permalink": "/docs/tags/introduction"
+                  "permalink": "/community/docs/tags/introduction"
                 }
               ],
               "version": "current",
@@ -538,16 +538,16 @@
                   "introduction"
                 ]
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "BADSidebar",
               "previous": {
                 "title": "Scrum Sprint Review",
-                "permalink": "/docs/Solutions/Scrum/Scrum Sprint Review"
+                "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Review"
               }
             }
           ],
           "drafts": [],
           "sidebars": {
-            "tutorialSidebar": [
+            "BADSidebar": [
               {
                 "type": "doc",
                 "id": "intro"
@@ -677,7 +677,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/community/blog/welcome",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -686,15 +686,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/community/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/community/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/community/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -730,7 +730,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/community/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -738,7 +738,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/community/blog/mdx-blog-post",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -747,7 +747,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/community/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -773,11 +773,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/community/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/community/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -785,7 +785,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/community/blog/long-blog-post",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -794,11 +794,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/community/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/community/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -823,11 +823,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/community/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/community/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -835,7 +835,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/community/blog/first-blog-post",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -844,11 +844,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/community/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/community/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -879,7 +879,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/community/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -894,7 +894,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/community/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -905,19 +905,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/community/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/community/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/community/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -928,13 +928,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/community/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/community/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -942,7 +942,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/community/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -953,7 +953,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/community/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -961,7 +961,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/community/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -971,7 +971,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/community/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -982,19 +982,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/community/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/community/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/community/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1006,19 +1006,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/community/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/community/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/intro",
+        "permalink": "/community/intro",
         "source": "@site/src/pages/intro.md",
         "title": "Welcome",
         "description": "Welcome to the BAD HandBook",
@@ -1028,7 +1028,7 @@
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/community/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

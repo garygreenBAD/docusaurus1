@@ -1,0 +1,38 @@
+{
+  "label": "Introduction",
+  "permalink": "/community/docs/tags/introduction",
+  "allTagsPath": "/community/docs/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "Areas of Focus/intro",
+      "title": "About Areas of Focus",
+      "description": "Introduction",
+      "permalink": "/community/docs/Areas of Focus/intro"
+    },
+    {
+      "id": "Frameworks/intro",
+      "title": "About Frameworks",
+      "description": "An introduction to BAD Tool Frameworks",
+      "permalink": "/community/docs/Frameworks/intro"
+    },
+    {
+      "id": "Solutions/intro",
+      "title": "About Solutions",
+      "description": "Introduction",
+      "permalink": "/community/docs/Solutions/intro"
+    },
+    {
+      "id": "Tools/intro",
+      "title": "About Tools",
+      "description": "Introduction",
+      "permalink": "/community/docs/Tools/intro"
+    },
+    {
+      "id": "intro",
+      "title": "BAD Tools Community Toolkit",
+      "description": "Introduction",
+      "permalink": "/community/docs/intro"
+    }
+  ]
+}

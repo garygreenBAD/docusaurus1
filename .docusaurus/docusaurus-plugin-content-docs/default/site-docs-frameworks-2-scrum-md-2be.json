@@ -1,0 +1,38 @@
+{
+  "unversionedId": "Frameworks 2/scrum",
+  "id": "Frameworks 2/scrum",
+  "title": "Scrum",
+  "description": "Scrum Framework",
+  "source": "@site/docs/Frameworks 2/scrum.md",
+  "sourceDirName": "Frameworks 2",
+  "slug": "/Frameworks 2/scrum",
+  "permalink": "/community/docs/Frameworks 2/scrum",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Scrum",
+      "permalink": "/community/docs/tags/scrum"
+    },
+    {
+      "label": "Frameworks",
+      "permalink": "/community/docs/tags/frameworks"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Scrum",
+    "tags": [
+      "Scrum",
+      "Frameworks"
+    ]
+  },
+  "sidebar": "BADSidebar",
+  "previous": {
+    "title": "About Frameworks",
+    "permalink": "/community/docs/Frameworks 2/intro"
+  },
+  "next": {
+    "title": "About Solutions",
+    "permalink": "/community/docs/Solutions/intro"
+  }
+}

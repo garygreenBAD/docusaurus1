@@ -6,18 +6,18 @@
   "source": "@site/docs/Solutions/Scrum/Scrum Backlog.md",
   "sourceDirName": "Solutions/Scrum",
   "slug": "/Solutions/Scrum/Scrum Backlog",
-  "permalink": "/docs/Solutions/Scrum/Scrum Backlog",
+  "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog",
   "draft": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "BADSidebar",
   "previous": {
     "title": "Scrum Backlog Refinement",
-    "permalink": "/docs/Solutions/Scrum/Scrum Backlog Refinement"
+    "permalink": "/community/docs/Solutions/Scrum/Scrum Backlog Refinement"
   },
   "next": {
     "title": "Scrum Daily Scrum",
-    "permalink": "/docs/Solutions/Scrum/Scrum Daily Scrum"
+    "permalink": "/community/docs/Solutions/Scrum/Scrum Daily Scrum"
   }
 }

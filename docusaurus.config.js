@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BAD Tools Community Toolkit',
   tagline: 'Blended Agile Delivery Toolkit',
-  url: 'https://bad.tools/community',
+  url: 'https://bad.tools',
   baseUrl: '/community/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,7 +60,7 @@ const config = {
         title: 'BAD Tools Community Toolkit',
         logo: {
           alt: 'BAD.Tools',
-          src: 'img/BAD Logo.png',
+          src: 'img/BADLogo.png',
         },
         items: [
           {

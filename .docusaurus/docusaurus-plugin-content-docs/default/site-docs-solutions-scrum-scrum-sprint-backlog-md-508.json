@@ -6,18 +6,18 @@
   "source": "@site/docs/Solutions/Scrum/Scrum Sprint Backlog.md",
   "sourceDirName": "Solutions/Scrum",
   "slug": "/Solutions/Scrum/Scrum Sprint Backlog",
-  "permalink": "/docs/Solutions/Scrum/Scrum Sprint Backlog",
+  "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Backlog",
   "draft": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "BADSidebar",
   "previous": {
     "title": "Scrum Daily Scrum",
-    "permalink": "/docs/Solutions/Scrum/Scrum Daily Scrum"
+    "permalink": "/community/docs/Solutions/Scrum/Scrum Daily Scrum"
   },
   "next": {
     "title": "Scrum Sprint Planning",
-    "permalink": "/docs/Solutions/Scrum/Scrum Sprint Planning"
+    "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Planning"
   }
 }

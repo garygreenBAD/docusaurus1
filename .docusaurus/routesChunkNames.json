@@ -1,313 +1,313 @@
 {
-  "/__docusaurus/debug-335": {
+  "/community/__docusaurus/debug-4ca": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugcc-0-e42"
+      "plugin": "plugin---community-docusaurus-debugcc-0-10f"
     }
   },
-  "/__docusaurus/debug/config-e05": {
+  "/community/__docusaurus/debug/config-d55": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugcc-0-e42"
+      "plugin": "plugin---community-docusaurus-debugcc-0-10f"
     }
   },
-  "/__docusaurus/debug/content-4d3": {
+  "/community/__docusaurus/debug/content-4ca": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugcc-0-e42"
+      "plugin": "plugin---community-docusaurus-debugcc-0-10f"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---community-docusaurus-debug-content-246-1e5"
   },
-  "/__docusaurus/debug/globalData-9f4": {
+  "/community/__docusaurus/debug/globalData-43f": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugcc-0-e42"
+      "plugin": "plugin---community-docusaurus-debugcc-0-10f"
     }
   },
-  "/__docusaurus/debug/metadata-d3c": {
+  "/community/__docusaurus/debug/metadata-717": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugcc-0-e42"
+      "plugin": "plugin---community-docusaurus-debugcc-0-10f"
     }
   },
-  "/__docusaurus/debug/registry-5ad": {
+  "/community/__docusaurus/debug/registry-11f": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugcc-0-e42"
+      "plugin": "plugin---community-docusaurus-debugcc-0-10f"
     }
   },
-  "/__docusaurus/debug/routes-26c": {
+  "/community/__docusaurus/debug/routes-756": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugcc-0-e42"
+      "plugin": "plugin---community-docusaurus-debugcc-0-10f"
     }
   },
-  "/blog-d8a": {
+  "/community/blog-422": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---community-blog-814-6fc",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---community-blog-766-419"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---community-blogf-4-f-bc0"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---community-blog-871-981"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---community-blog-925-96f"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---community-bloge-51-078"
   },
-  "/blog/archive-ac2": {
+  "/community/blog/archive-b14": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---community-blog-archive-5-d-8-862"
   },
-  "/blog/first-blog-post-9f0": {
+  "/community/blog/first-blog-post-5a3": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "sidebar---community-blog-814-6fc",
+    "content": "content---community-blog-first-blog-poste-27-d2f"
   },
-  "/blog/long-blog-post-9f0": {
+  "/community/blog/long-blog-post-ece": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "sidebar---community-blog-814-6fc",
+    "content": "content---community-blog-long-blog-post-736-ade"
   },
-  "/blog/mdx-blog-post-a12": {
+  "/community/blog/mdx-blog-post-e20": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "sidebar---community-blog-814-6fc",
+    "content": "content---community-blog-mdx-blog-post-593-56b"
   },
-  "/blog/tags-c63": {
+  "/community/blog/tags-632": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "sidebar---community-blog-814-6fc",
+    "tags": "tags---community-blog-tags-206-445"
   },
-  "/blog/tags/docusaurus-81d": {
+  "/community/blog/tags/docusaurus-a35": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---community-blog-814-6fc",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---community-blog-766-419"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---community-blogf-4-f-bc0"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---community-blog-871-981"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---community-blog-925-96f"
       }
     ],
-    "tag": "tag---blog-tags-docusaurusa-80-728",
-    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+    "tag": "tag---community-blog-tags-docusaurus-01-c-c61",
+    "listMetadata": "listMetadata---community-blog-tags-docusaurus-1-d-6-2fb"
   },
-  "/blog/tags/facebook-f56": {
+  "/community/blog/tags/facebook-15b": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---community-blog-814-6fc",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---community-blog-766-419"
       }
     ],
-    "tag": "tag---blog-tags-facebook-031-c52",
-    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+    "tag": "tag---community-blog-tags-facebooke-38-64c",
+    "listMetadata": "listMetadata---community-blog-tags-facebook-9-df-d8e"
   },
-  "/blog/tags/hello-c6d": {
+  "/community/blog/tags/hello-1d6": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---community-blog-814-6fc",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---community-blog-766-419"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---community-blog-871-981"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "tag---community-blog-tags-hello-29-b-aee",
+    "listMetadata": "listMetadata---community-blog-tags-hello-2-c-6-364"
   },
-  "/blog/tags/hola-d8d": {
+  "/community/blog/tags/hola-a44": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---community-blog-814-6fc",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---community-blog-925-96f"
       }
     ],
-    "tag": "tag---blog-tags-holae-16-18a",
-    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+    "tag": "tag---community-blog-tags-hola-07-f-e50",
+    "listMetadata": "listMetadata---community-blog-tags-hola-827-d89"
   },
-  "/blog/welcome-0e0": {
+  "/community/blog/welcome-feb": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogefe-40e"
+      "plugin": "plugin---community-blogefe-e94"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "sidebar---community-blog-814-6fc",
+    "content": "content---community-blog-welcomed-9-f-ab6"
   },
-  "/docs/tags-9a7": {
+  "/community/docs/tags-324": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__context": {
-      "plugin": "plugin---docsda-4-eb3"
+      "plugin": "plugin---community-docs-tagsda-4-6f6"
     },
-    "tags": "tags---docs-tags-559-5e5"
+    "tags": "tags---community-docs-tags-559-e00"
   },
-  "/docs/tags/aof-d6a": {
+  "/community/docs/tags/aof-495": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docsda-4-eb3"
+      "plugin": "plugin---community-docs-tagsda-4-6f6"
     },
-    "tag": "tag---docs-tags-aofbcb-d0b"
+    "tag": "tag---community-docs-tags-aof-436-2de"
   },
-  "/docs/tags/frameworks-dc9": {
+  "/community/docs/tags/frameworks-580": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docsda-4-eb3"
+      "plugin": "plugin---community-docs-tagsda-4-6f6"
     },
-    "tag": "tag---docs-tags-frameworks-080-4fc"
+    "tag": "tag---community-docs-tags-frameworks-17-b-f30"
   },
-  "/docs/tags/introduction-93f": {
+  "/community/docs/tags/introduction-abb": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docsda-4-eb3"
+      "plugin": "plugin---community-docs-tagsda-4-6f6"
     },
-    "tag": "tag---docs-tags-introduction-88-c-660"
+    "tag": "tag---community-docs-tags-introduction-0-bc-954"
   },
-  "/docs/tags/scrum-992": {
+  "/community/docs/tags/scrum-d8a": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docsda-4-eb3"
+      "plugin": "plugin---community-docs-tagsda-4-6f6"
     },
-    "tag": "tag---docs-tags-scrum-6-a-6-d91"
+    "tag": "tag---community-docs-tags-scrum-951-651"
   },
-  "/intro-10b": {
+  "/community/intro-6f9": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-170-d6a"
+      "plugin": "plugin---community-intro-170-fdf"
     },
-    "content": "content---intro-2-c-3-35b"
+    "content": "content---community-intro-2-c-3-cf2"
   },
-  "/markdown-page-43f": {
+  "/community/markdown-page-a59": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-170-d6a"
+      "plugin": "plugin---community-intro-170-fdf"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---community-markdown-page-393-e19"
   },
-  "/docs-0a6": {
+  "/community/docs-3f3": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docsda-4-eb3"
+      "plugin": "plugin---community-docs-tagsda-4-6f6"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---community-docs-935-472"
   },
-  "/docs/Areas of Focus/intro-69a": {
+  "/community/docs/Areas of Focus/intro-325": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-areas-of-focus-intro-4-e-3-c04"
+    "content": "content---community-docs-areas-of-focus-intro-4-e-3-df0"
   },
-  "/docs/Areas of Focus/Scrum/Scrum Artifacts-f6e": {
+  "/community/docs/Areas of Focus/Scrum/Scrum Artifacts-191": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-areas-of-focus-scrum-scrum-artifacts-968-0ea"
+    "content": "content---community-docs-areas-of-focus-scrum-scrum-artifacts-968-e4e"
   },
-  "/docs/Areas of Focus/Scrum/Scrum Events-3c0": {
+  "/community/docs/Areas of Focus/Scrum/Scrum Events-b3d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-areas-of-focus-scrum-scrum-eventsd-36-81a"
+    "content": "content---community-docs-areas-of-focus-scrum-scrum-eventsd-36-98e"
   },
-  "/docs/Areas of Focus/Scrum/Scrum Roles-1a8": {
+  "/community/docs/Areas of Focus/Scrum/Scrum Roles-94a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-areas-of-focus-scrum-scrum-roles-014-f32"
+    "content": "content---community-docs-areas-of-focus-scrum-scrum-roles-014-d72"
   },
-  "/docs/Areas of Focus/Scrum/Scrum Values-ac6": {
+  "/community/docs/Areas of Focus/Scrum/Scrum Values-e5c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-areas-of-focus-scrum-scrum-values-74-f-b8b"
+    "content": "content---community-docs-areas-of-focus-scrum-scrum-values-74-f-96d"
   },
-  "/docs/Frameworks/intro-398": {
+  "/community/docs/Frameworks/intro-f61": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-frameworks-intro-396-ed8"
+    "content": "content---community-docs-frameworks-intro-396-a08"
   },
-  "/docs/Frameworks/scrum-255": {
+  "/community/docs/Frameworks/scrum-ef6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-frameworks-scrum-7-c-1-06c"
+    "content": "content---community-docs-frameworks-scrum-7-c-1-e95"
   },
-  "/docs/intro-aed": {
+  "/community/docs/intro-a9e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---community-docs-intro-0-e-3-611"
   },
-  "/docs/Solutions/intro-923": {
+  "/community/docs/Solutions/intro-741": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-intro-02-d-36e"
+    "content": "content---community-docs-solutions-intro-02-d-189"
   },
-  "/docs/Solutions/Scrum/Scrum Backlog-79b": {
+  "/community/docs/Solutions/Scrum/Scrum Backlog-594": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-scrum-scrum-backlog-003-529"
+    "content": "content---community-docs-solutions-scrum-scrum-backlog-003-a23"
   },
-  "/docs/Solutions/Scrum/Scrum Backlog Refinement-0a0": {
+  "/community/docs/Solutions/Scrum/Scrum Backlog Refinement-ebe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-scrum-scrum-backlog-refinementb-3-f-2ee"
+    "content": "content---community-docs-solutions-scrum-scrum-backlog-refinementb-3-f-a64"
   },
-  "/docs/Solutions/Scrum/Scrum Daily Scrum-85b": {
+  "/community/docs/Solutions/Scrum/Scrum Daily Scrum-375": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-scrum-scrum-daily-scrumb-96-c45"
+    "content": "content---community-docs-solutions-scrum-scrum-daily-scrumb-96-b9a"
   },
-  "/docs/Solutions/Scrum/Scrum Sprint Backlog-232": {
+  "/community/docs/Solutions/Scrum/Scrum Sprint Backlog-a4a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-scrum-scrum-sprint-backlog-508-4f1"
+    "content": "content---community-docs-solutions-scrum-scrum-sprint-backlog-508-c8b"
   },
-  "/docs/Solutions/Scrum/Scrum Sprint Planning-97a": {
+  "/community/docs/Solutions/Scrum/Scrum Sprint Planning-187": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-scrum-scrum-sprint-planningd-28-ec9"
+    "content": "content---community-docs-solutions-scrum-scrum-sprint-planningd-28-aa4"
   },
-  "/docs/Solutions/Scrum/Scrum Sprint Retrospective-55f": {
+  "/community/docs/Solutions/Scrum/Scrum Sprint Retrospective-f47": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-scrum-scrum-sprint-retrospectivec-6-b-3fd"
+    "content": "content---community-docs-solutions-scrum-scrum-sprint-retrospectivec-6-b-87d"
   },
-  "/docs/Solutions/Scrum/Scrum Sprint Review-cd8": {
+  "/community/docs/Solutions/Scrum/Scrum Sprint Review-f97": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solutions-scrum-scrum-sprint-review-30-f-a4c"
+    "content": "content---community-docs-solutions-scrum-scrum-sprint-review-30-f-303"
   },
-  "/docs/Tools/intro-831": {
+  "/community/docs/Tools/intro-603": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-introe-37-aa2"
+    "content": "content---community-docs-tools-introe-37-b4b"
   },
-  "/-96f": {
+  "/community/-c09": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-page-170-d6a"
+      "plugin": "plugin---community-intro-170-fdf"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---community-5-e-9-aa5"
   }
 }

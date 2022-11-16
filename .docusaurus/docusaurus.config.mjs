@@ -6,8 +6,8 @@
 export default {
   "title": "BAD Tools Community Toolkit",
   "tagline": "Blended Agile Delivery Toolkit",
-  "url": "https://community.bad.tools",
-  "baseUrl": "/",
+  "url": "https://bad.tools",
+  "baseUrl": "/community/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/BAD Logo.png",
@@ -40,7 +40,7 @@ export default {
       "title": "BAD Tools Community Toolkit",
       "logo": {
         "alt": "BAD.Tools",
-        "src": "img/BAD Logo.png"
+        "src": "img/BADLogo.png"
       },
       "items": [
         {

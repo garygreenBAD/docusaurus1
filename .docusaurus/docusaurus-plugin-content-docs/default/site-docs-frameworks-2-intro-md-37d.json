@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Frameworks 2/intro",
+  "id": "Frameworks 2/intro",
+  "title": "About Frameworks",
+  "description": "An introduction to BAD Tool Frameworks",
+  "source": "@site/docs/Frameworks 2/intro.md",
+  "sourceDirName": "Frameworks 2",
+  "slug": "/Frameworks 2/intro",
+  "permalink": "/community/docs/Frameworks 2/intro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Introduction",
+      "permalink": "/community/docs/tags/introduction"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "About Frameworks",
+    "description": "An introduction to BAD Tool Frameworks",
+    "sidebar_position": 2,
+    "tags": [
+      "Introduction"
+    ]
+  },
+  "sidebar": "BADSidebar",
+  "previous": {
+    "title": "Scrum Events",
+    "permalink": "/community/docs/Areas of Focus/Scrum/Scrum Events"
+  },
+  "next": {
+    "title": "Scrum",
+    "permalink": "/community/docs/Frameworks 2/scrum"
+  }
+}

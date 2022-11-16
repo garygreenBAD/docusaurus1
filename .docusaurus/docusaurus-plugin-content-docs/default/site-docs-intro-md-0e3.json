@@ -6,12 +6,12 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/community/docs/intro",
   "draft": false,
   "tags": [
     {
       "label": "introduction",
-      "permalink": "/docs/tags/introduction"
+      "permalink": "/community/docs/tags/introduction"
     }
   ],
   "version": "current",
@@ -23,9 +23,9 @@
       "introduction"
     ]
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "BADSidebar",
   "next": {
     "title": "About Areas of Focus",
-    "permalink": "/docs/Areas of Focus/intro"
+    "permalink": "/community/docs/Areas of Focus/intro"
   }
 }

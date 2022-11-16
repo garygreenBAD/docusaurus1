@@ -6,18 +6,18 @@
   "source": "@site/docs/Solutions/Scrum/Scrum Sprint Planning.md",
   "sourceDirName": "Solutions/Scrum",
   "slug": "/Solutions/Scrum/Scrum Sprint Planning",
-  "permalink": "/docs/Solutions/Scrum/Scrum Sprint Planning",
+  "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Planning",
   "draft": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "BADSidebar",
   "previous": {
     "title": "Scrum Sprint Backlog",
-    "permalink": "/docs/Solutions/Scrum/Scrum Sprint Backlog"
+    "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Backlog"
   },
   "next": {
     "title": "Scrum Sprint Retrospective",
-    "permalink": "/docs/Solutions/Scrum/Scrum Sprint Retrospective"
+    "permalink": "/community/docs/Solutions/Scrum/Scrum Sprint Retrospective"
   }
 }
